@@ -1,0 +1,13 @@
+﻿  Employee.cpp
+  NonProfessional.cpp
+C:\Users\mamal\source\repos\2.2\2.2\NonProfessional.cpp(10,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\mamal\source\repos\2.2\2.2\NonProfessional.cpp(13,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\mamal\source\repos\2.2\2.2\NonProfessional.cpp(16,45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Professional.cpp
+  Source.cpp
+C:\Users\mamal\source\repos\2.2\2.2\Source.cpp(7,12): warning C4101: 'sal': unreferenced local variable
+C:\Users\mamal\source\repos\2.2\2.2\Source.cpp(7,22): warning C4101: 'ins': unreferenced local variable
+C:\Users\mamal\source\repos\2.2\2.2\Source.cpp(7,17): warning C4101: 'vac': unreferenced local variable
+  Generating Code...
+  LINK : C:\Users\mamal\source\repos\2.2\x64\Debug\2.2.exe not found or not built by the last incremental link; performing full link
+  2.2.vcxproj -> C:\Users\mamal\source\repos\2.2\x64\Debug\2.2.exe
